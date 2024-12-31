@@ -17,7 +17,7 @@ limitations under the License.
 
 
 [Apache Bigtop](http://bigtop.apache.org/)
-============================================================================================
+=====================================================================================================================================
 
 ...is a project for the development of packaging and tests of the [Apache Hadoop](http://hadoop.apache.org/) ecosystem.
 
